@@ -1,6 +1,6 @@
 # 🏦 Credit Risk Prediction App
 
-## 📌 Description du projet
+##  Description du projet
 
 Ce projet vise à **prédire le risque de crédit** d’un client (bon ou mauvais payeur) à partir de ses informations socio-économiques, en utilisant des techniques de **Machine Learning supervisé**.
 
@@ -8,7 +8,7 @@ Une application **Streamlit** interactive permet à l’utilisateur de saisir le
 
 ---
 
-## 🎯 Objectifs
+##  Objectifs
 
 * Comprendre les facteurs influençant le **défaut de paiement**
 * Mettre en œuvre un pipeline ML complet :
@@ -21,7 +21,7 @@ Une application **Streamlit** interactive permet à l’utilisateur de saisir le
 
 ---
 
-## 🧠 Approche Machine Learning
+##  Approche Machine Learning
 
 * **Type de problème** : Classification binaire
 * **Variable cible** :
